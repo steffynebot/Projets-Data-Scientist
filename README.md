@@ -14,9 +14,9 @@ Vous trouverez ici un ensemble d'études de cas appliquant différentes techniqu
 
 ## 📁 Liste des Projets
 
-### 🏥 1. Idée d'application au service de la santé publique
-- **Langage :** Python  
-- **Objectif :** Concevoir un prototype d’application exploitant les données pour répondre à un enjeu de santé publique  
+### 🏥 1. Analyse des systèmes éducatifs
+- **Langage :** Python  et ses librairies
+- **Objectif :** etude des systèmes éducatifs  
 - **Compétences :** Design thinking, dataviz, storytelling data
 
 ### 🌡️ 2. Anticiper les besoins de consommation des bâtiments
