@@ -1,0 +1,484 @@
+état_client,categorie_produit,montant_paiement
+Acre,Auto & Moto,617.9
+Acre,Autres,215.61
+Acre,Beauté & Santé,2448.18
+Acre,Bricolage & Jardin,707.1999999999999
+Acre,Bébés,871.97
+Acre,Cadeaux & Montres,1016.02
+Acre,Gadgets,130.22
+Acre,Informatique & Électronique,3788.9
+Acre,Jouets,318.04999999999995
+Acre,Maison,8139.31
+Acre,Mode,969.77
+Acre,Multimédias,1158.71
+Acre,Papeterie,646.76
+Acre,Sport & Loisirs,2071.54
+Acre,Téléphonie,1271.4299999999998
+Alagoas,Alimentation & Boissons,333.76
+Alagoas,Animaux,2426.7200000000003
+Alagoas,Auto & Moto,4561.57
+Alagoas,Autres,1222.18
+Alagoas,Beauté & Santé,16301.38
+Alagoas,Bricolage & Jardin,4593.52
+Alagoas,Bébés,1071.93
+Alagoas,Cadeaux & Montres,12596.960000000001
+Alagoas,Gadgets,3115.86
+Alagoas,Informatique & Électronique,17848.75
+Alagoas,Jouets,1419.18
+Alagoas,Maison,22166.72
+Alagoas,Mode,2355.08
+Alagoas,Multimédias,3771.76
+Alagoas,Papeterie,858.15
+Alagoas,Professionnel,1791.31
+Alagoas,Sport & Loisirs,4978.11
+Alagoas,Téléphonie,6516.93
+Amapá,Animaux,175.6
+Amapá,Auto & Moto,1406.68
+Amapá,Beauté & Santé,1719.02
+Amapá,Bricolage & Jardin,300.2
+Amapá,Cadeaux & Montres,2016.42
+Amapá,Gadgets,363.19
+Amapá,Informatique & Électronique,6702.11
+Amapá,Jouets,389.72
+Amapá,Maison,3418.53
+Amapá,Multimédias,486.21000000000004
+Amapá,Papeterie,335.04
+Amapá,Professionnel,657.61
+Amapá,Sport & Loisirs,1420.42
+Amapá,Téléphonie,2074.87
+Amazonas,Alimentation & Boissons,271.07
+Amazonas,Animaux,541.05
+Amazonas,Auto & Moto,1853.25
+Amazonas,Autres,1479.3799999999999
+Amazonas,Beauté & Santé,4582.29
+Amazonas,Bricolage & Jardin,3451.96
+Amazonas,Bébés,796.97
+Amazonas,Cadeaux & Montres,2056.58
+Amazonas,Gadgets,759.74
+Amazonas,Informatique & Électronique,7542.76
+Amazonas,Jouets,1135.1
+Amazonas,Maison,3271.42
+Amazonas,Mode,1477.3200000000002
+Amazonas,Multimédias,1182.76
+Amazonas,Papeterie,869.01
+Amazonas,Sport & Loisirs,1717.1399999999999
+Amazonas,Téléphonie,1293.78
+Bahia,Alimentation & Boissons,2839.79
+Bahia,Animaux,8385.03
+Bahia,Auto & Moto,35920.09
+Bahia,Autres,12875.130000000001
+Bahia,Beauté & Santé,77181.36
+Bahia,Bricolage & Jardin,61503.36
+Bahia,Bébés,18568.3
+Bahia,Cadeaux & Montres,55242.520000000004
+Bahia,Gadgets,26744.77
+Bahia,Informatique & Électronique,108425.21
+Bahia,Jouets,17126.19
+Bahia,Maison,196900.28
+Bahia,Mode,16950.88
+Bahia,Multimédias,20948.96
+Bahia,Papeterie,9118.05
+Bahia,Professionnel,5318.79
+Bahia,Sport & Loisirs,58870.24
+Bahia,Téléphonie,38897.09
+Ceará,Alimentation & Boissons,1206.78
+Ceará,Animaux,1468.82
+Ceará,Auto & Moto,19133.62
+Ceará,Autres,7340.6
+Ceará,Beauté & Santé,52168.15
+Ceará,Bricolage & Jardin,24865.61
+Ceará,Bébés,5900.67
+Ceará,Cadeaux & Montres,34587.81
+Ceará,Gadgets,15181.67
+Ceará,Informatique & Électronique,33447.9
+Ceará,Jouets,11168.75
+Ceará,Maison,70792.58
+Ceará,Mode,9427.31
+Ceará,Multimédias,9920.01
+Ceará,Papeterie,5386.87
+Ceará,Professionnel,2748.8599999999997
+Ceará,Sport & Loisirs,14733.29
+Ceará,Téléphonie,10980.46
+Distrito Federal,Alimentation & Boissons,1218.74
+Distrito Federal,Animaux,7085.32
+Distrito Federal,Auto & Moto,21629.59
+Distrito Federal,Autres,3879.29
+Distrito Federal,Beauté & Santé,50419.93
+Distrito Federal,Bricolage & Jardin,19901.58
+Distrito Federal,Bébés,10838.34
+Distrito Federal,Cadeaux & Montres,35853.21
+Distrito Federal,Fêtes & Événements,269.73
+Distrito Federal,Gadgets,14662.93
+Distrito Federal,Informatique & Électronique,62276.35
+Distrito Federal,Jouets,15100.35
+Distrito Federal,Maison,105694.49
+Distrito Federal,Mode,10029.06
+Distrito Federal,Multimédias,8570.17
+Distrito Federal,Papeterie,6132.38
+Distrito Federal,Professionnel,1656.71
+Distrito Federal,Services,115.45
+Distrito Federal,Sport & Loisirs,37235.52
+Distrito Federal,Téléphonie,10355.59
+Espírito Santo,Alimentation & Boissons,2492.7
+Espírito Santo,Animaux,3872.52
+Espírito Santo,Auto & Moto,13975.09
+Espírito Santo,Autres,2940.08
+Espírito Santo,Beauté & Santé,36114.69
+Espírito Santo,Bricolage & Jardin,29245.07
+Espírito Santo,Bébés,10304.92
+Espírito Santo,Cadeaux & Montres,31864.36
+Espírito Santo,Fêtes & Événements,98.99
+Espírito Santo,Gadgets,13129.93
+Espírito Santo,Informatique & Électronique,29502.81
+Espírito Santo,Jouets,12745.39
+Espírito Santo,Maison,95348.85
+Espírito Santo,Mode,9899.11
+Espírito Santo,Multimédias,14901.84
+Espírito Santo,Papeterie,7015.9
+Espírito Santo,Professionnel,710.78
+Espírito Santo,Sport & Loisirs,26327.42
+Espírito Santo,Téléphonie,45445.15
+Goiás,Alimentation & Boissons,1711.58
+Goiás,Animaux,6179.46
+Goiás,Auto & Moto,12489.25
+Goiás,Autres,12044.35
+Goiás,Beauté & Santé,49491.73
+Goiás,Bricolage & Jardin,59543.76
+Goiás,Bébés,11245.97
+Goiás,Cadeaux & Montres,35891.19
+Goiás,Fêtes & Événements,175.84
+Goiás,Gadgets,36597.04
+Goiás,Informatique & Électronique,33284.53
+Goiás,Jouets,10856.44
+Goiás,Maison,124254.76
+Goiás,Mode,8532.79
+Goiás,Multimédias,9202.73
+Goiás,Papeterie,7598.38
+Goiás,Professionnel,4977.7300000000005
+Goiás,Sport & Loisirs,25446.84
+Goiás,Téléphonie,9948.91
+Maranhão,Alimentation & Boissons,214.54000000000002
+Maranhão,Animaux,1354.8
+Maranhão,Auto & Moto,7334.35
+Maranhão,Autres,6113.860000000001
+Maranhão,Beauté & Santé,23026.28
+Maranhão,Bricolage & Jardin,6189.26
+Maranhão,Bébés,6378.48
+Maranhão,Cadeaux & Montres,12002.24
+Maranhão,Gadgets,9026.97
+Maranhão,Informatique & Électronique,41540.35
+Maranhão,Jouets,4332.3
+Maranhão,Maison,39666.14
+Maranhão,Mode,5310.1
+Maranhão,Multimédias,7393.21
+Maranhão,Papeterie,3060.17
+Maranhão,Professionnel,772.42
+Maranhão,Sport & Loisirs,14257.86
+Maranhão,Téléphonie,7851.72
+Mato Grosso,Alimentation & Boissons,1373.2
+Mato Grosso,Animaux,3770.29
+Mato Grosso,Auto & Moto,15613.15
+Mato Grosso,Autres,1897.0
+Mato Grosso,Beauté & Santé,25793.64
+Mato Grosso,Bricolage & Jardin,45278.74
+Mato Grosso,Bébés,8129.04
+Mato Grosso,Cadeaux & Montres,17733.87
+Mato Grosso,Gadgets,8967.38
+Mato Grosso,Informatique & Électronique,20471.96
+Mato Grosso,Jouets,8239.74
+Mato Grosso,Maison,56351.25
+Mato Grosso,Mode,3237.03
+Mato Grosso,Multimédias,9073.800000000001
+Mato Grosso,Papeterie,4280.06
+Mato Grosso,Professionnel,1024.51
+Mato Grosso,Sport & Loisirs,12571.3
+Mato Grosso,Téléphonie,6136.09
+Mato Grosso do Sul,Alimentation & Boissons,758.6
+Mato Grosso do Sul,Animaux,3855.98
+Mato Grosso do Sul,Auto & Moto,8560.64
+Mato Grosso do Sul,Autres,1034.31
+Mato Grosso do Sul,Beauté & Santé,16569.260000000002
+Mato Grosso do Sul,Bricolage & Jardin,19192.61
+Mato Grosso do Sul,Bébés,6613.02
+Mato Grosso do Sul,Cadeaux & Montres,9894.96
+Mato Grosso do Sul,Gadgets,7091.11
+Mato Grosso do Sul,Informatique & Électronique,17085.1
+Mato Grosso do Sul,Jouets,5302.88
+Mato Grosso do Sul,Maison,37498.24
+Mato Grosso do Sul,Mode,3974.14
+Mato Grosso do Sul,Multimédias,5440.54
+Mato Grosso do Sul,Papeterie,2756.66
+Mato Grosso do Sul,Professionnel,707.57
+Mato Grosso do Sul,Sport & Loisirs,13254.73
+Mato Grosso do Sul,Téléphonie,2248.8
+Minas Gerais,Alimentation & Boissons,10730.67
+Minas Gerais,Animaux,44883.63
+Minas Gerais,Auto & Moto,101368.96
+Minas Gerais,Autres,26730.32
+Minas Gerais,Beauté & Santé,254595.5
+Minas Gerais,Bricolage & Jardin,171712.95
+Minas Gerais,Bébés,63329.68
+Minas Gerais,Cadeaux & Montres,136162.09
+Minas Gerais,Fêtes & Événements,1297.26
+Minas Gerais,Gadgets,87699.23
+Minas Gerais,Informatique & Électronique,239471.07
+Minas Gerais,Jouets,75501.83
+Minas Gerais,Maison,638617.72
+Minas Gerais,Mode,66718.59
+Minas Gerais,Multimédias,69947.61
+Minas Gerais,Papeterie,36738.54
+Minas Gerais,Professionnel,46090.38
+Minas Gerais,Sport & Loisirs,154459.51
+Minas Gerais,Téléphonie,47010.65
+Paraná,Alimentation & Boissons,8479.85
+Paraná,Animaux,11564.62
+Paraná,Auto & Moto,47044.85
+Paraná,Autres,12174.95
+Paraná,Beauté & Santé,95944.64
+Paraná,Bricolage & Jardin,59589.56
+Paraná,Bébés,27682.35
+Paraná,Cadeaux & Montres,86463.07
+Paraná,Fêtes & Événements,356.49
+Paraná,Gadgets,44827.49
+Paraná,Informatique & Électronique,106839.82
+Paraná,Jouets,27804.78
+Paraná,Maison,342150.13
+Paraná,Mode,22660.8
+Paraná,Multimédias,29681.47
+Paraná,Papeterie,14606.77
+Paraná,Professionnel,7186.48
+Paraná,Sport & Loisirs,81398.37
+Paraná,Téléphonie,22610.25
+Paraíba,Alimentation & Boissons,218.44
+Paraíba,Animaux,1041.62
+Paraíba,Auto & Moto,5363.15
+Paraíba,Autres,4178.3
+Paraíba,Beauté & Santé,23152.94
+Paraíba,Bricolage & Jardin,28223.64
+Paraíba,Bébés,2668.4900000000002
+Paraíba,Cadeaux & Montres,14288.76
+Paraíba,Gadgets,6239.46
+Paraíba,Informatique & Électronique,24738.07
+Paraíba,Jouets,4445.74
+Paraíba,Maison,30410.6
+Paraíba,Mode,3873.01
+Paraíba,Multimédias,2886.9900000000002
+Paraíba,Papeterie,3131.64
+Paraíba,Professionnel,4356.0199999999995
+Paraíba,Sport & Loisirs,7720.639999999999
+Paraíba,Téléphonie,6426.73
+Pará,Alimentation & Boissons,211.63
+Pará,Animaux,2234.23
+Pará,Auto & Moto,12488.43
+Pará,Autres,10914.359999999999
+Pará,Beauté & Santé,37213.42
+Pará,Bricolage & Jardin,12324.48
+Pará,Bébés,12211.26
+Pará,Cadeaux & Montres,23619.989999999998
+Pará,Gadgets,10955.41
+Pará,Informatique & Électronique,26599.239999999998
+Pará,Jouets,4624.98
+Pará,Maison,47539.24
+Pará,Mode,7271.53
+Pará,Multimédias,6502.53
+Pará,Papeterie,2932.84
+Pará,Professionnel,1287.1599999999999
+Pará,Sport & Loisirs,19487.239999999998
+Pará,Téléphonie,11037.72
+Pernambuco,Alimentation & Boissons,1344.3799999999999
+Pernambuco,Animaux,3804.3900000000003
+Pernambuco,Auto & Moto,16726.31
+Pernambuco,Autres,6184.55
+Pernambuco,Beauté & Santé,64339.33
+Pernambuco,Bricolage & Jardin,22424.3
+Pernambuco,Bébés,6111.48
+Pernambuco,Cadeaux & Montres,39342.54
+Pernambuco,Gadgets,17924.87
+Pernambuco,Informatique & Électronique,34831.02
+Pernambuco,Jouets,12004.81
+Pernambuco,Maison,60246.19
+Pernambuco,Mode,7438.9400000000005
+Pernambuco,Multimédias,14538.08
+Pernambuco,Papeterie,6318.2
+Pernambuco,Professionnel,8001.94
+Pernambuco,Sport & Loisirs,30674.74
+Pernambuco,Téléphonie,15333.89
+Piauí,Alimentation & Boissons,523.91
+Piauí,Animaux,1669.6200000000001
+Piauí,Auto & Moto,20182.34
+Piauí,Autres,1100.58
+Piauí,Beauté & Santé,17205.93
+Piauí,Bricolage & Jardin,6916.73
+Piauí,Bébés,5527.57
+Piauí,Cadeaux & Montres,10275.33
+Piauí,Fêtes & Événements,292.88
+Piauí,Gadgets,4074.5
+Piauí,Informatique & Électronique,11920.0
+Piauí,Jouets,5276.66
+Piauí,Maison,26382.22
+Piauí,Mode,1539.3
+Piauí,Multimédias,4043.45
+Piauí,Papeterie,1858.74
+Piauí,Professionnel,1401.54
+Piauí,Sport & Loisirs,7979.22
+Piauí,Téléphonie,4586.94
+Rio Grande do Norte,Alimentation & Boissons,621.5
+Rio Grande do Norte,Animaux,6066.77
+Rio Grande do Norte,Auto & Moto,5091.81
+Rio Grande do Norte,Autres,904.6800000000001
+Rio Grande do Norte,Beauté & Santé,19264.74
+Rio Grande do Norte,Bricolage & Jardin,7453.41
+Rio Grande do Norte,Bébés,1954.9099999999999
+Rio Grande do Norte,Cadeaux & Montres,12033.86
+Rio Grande do Norte,Gadgets,4387.62
+Rio Grande do Norte,Informatique & Électronique,6078.55
+Rio Grande do Norte,Jouets,3175.67
+Rio Grande do Norte,Maison,19410.82
+Rio Grande do Norte,Mode,2915.14
+Rio Grande do Norte,Multimédias,4801.9400000000005
+Rio Grande do Norte,Papeterie,5762.83
+Rio Grande do Norte,Professionnel,194.97
+Rio Grande do Norte,Sport & Loisirs,5346.400000000001
+Rio Grande do Norte,Téléphonie,6631.2
+Rio Grande do Sul,Alimentation & Boissons,4125.88
+Rio Grande do Sul,Animaux,15795.27
+Rio Grande do Sul,Auto & Moto,34199.88
+Rio Grande do Sul,Autres,21042.59
+Rio Grande do Sul,Beauté & Santé,90330.04
+Rio Grande do Sul,Bricolage & Jardin,106467.74
+Rio Grande do Sul,Bébés,37863.39
+Rio Grande do Sul,Cadeaux & Montres,51761.57
+Rio Grande do Sul,Fêtes & Événements,730.72
+Rio Grande do Sul,Gadgets,54563.56
+Rio Grande do Sul,Informatique & Électronique,129945.71
+Rio Grande do Sul,Jouets,34360.94
+Rio Grande do Sul,Maison,341232.89
+Rio Grande do Sul,Mode,22092.18
+Rio Grande do Sul,Multimédias,27559.26
+Rio Grande do Sul,Papeterie,17313.87
+Rio Grande do Sul,Professionnel,8626.6
+Rio Grande do Sul,Sport & Loisirs,74893.87
+Rio Grande do Sul,Téléphonie,52163.25
+Rio de Janeiro,Alimentation & Boissons,44764.81
+Rio de Janeiro,Animaux,34327.01
+Rio de Janeiro,Auto & Moto,80730.14
+Rio de Janeiro,Autres,35389.32
+Rio de Janeiro,Beauté & Santé,246727.11
+Rio de Janeiro,Bricolage & Jardin,182264.37
+Rio de Janeiro,Bébés,53717.82
+Rio de Janeiro,Cadeaux & Montres,214893.97
+Rio de Janeiro,Fêtes & Événements,453.03
+Rio de Janeiro,Gadgets,98352.83
+Rio de Janeiro,Informatique & Électronique,267671.97
+Rio de Janeiro,Jouets,90649.69
+Rio de Janeiro,Maison,835312.49
+Rio de Janeiro,Mode,49975.47
+Rio de Janeiro,Multimédias,51980.23
+Rio de Janeiro,Papeterie,43691.17
+Rio de Janeiro,Professionnel,15222.24
+Rio de Janeiro,Sport & Loisirs,174598.78
+Rio de Janeiro,Téléphonie,166130.34
+Rondônia,Alimentation & Boissons,126.45
+Rondônia,Animaux,1384.17
+Rondônia,Auto & Moto,1964.1499999999999
+Rondônia,Autres,1128.42
+Rondônia,Beauté & Santé,9898.36
+Rondônia,Bricolage & Jardin,3225.91
+Rondônia,Bébés,2810.54
+Rondônia,Cadeaux & Montres,5160.54
+Rondônia,Gadgets,3235.84
+Rondônia,Informatique & Électronique,7364.29
+Rondônia,Jouets,4175.38
+Rondônia,Maison,12719.65
+Rondônia,Mode,2791.35
+Rondônia,Multimédias,240.02999999999997
+Rondônia,Papeterie,1131.92
+Rondônia,Professionnel,1026.3
+Rondônia,Services,209.06
+Rondônia,Sport & Loisirs,5261.89
+Rondônia,Téléphonie,1471.6200000000001
+Roraima,Auto & Moto,257.21
+Roraima,Autres,301.82
+Roraima,Beauté & Santé,1795.31
+Roraima,Bricolage & Jardin,288.35
+Roraima,Bébés,1077.94
+Roraima,Cadeaux & Montres,287.45
+Roraima,Gadgets,189.95
+Roraima,Informatique & Électronique,758.27
+Roraima,Maison,4536.68
+Roraima,Papeterie,181.02
+Roraima,Sport & Loisirs,2579.08
+Roraima,Téléphonie,209.13
+Santa Catarina,Alimentation & Boissons,2594.82
+Santa Catarina,Animaux,13423.08
+Santa Catarina,Auto & Moto,41843.42
+Santa Catarina,Autres,10537.2
+Santa Catarina,Beauté & Santé,67375.55
+Santa Catarina,Bricolage & Jardin,59937.75
+Santa Catarina,Bébés,34074.03
+Santa Catarina,Cadeaux & Montres,41735.85
+Santa Catarina,Fêtes & Événements,334.16
+Santa Catarina,Gadgets,35185.7
+Santa Catarina,Informatique & Électronique,80443.11
+Santa Catarina,Jouets,18743.45
+Santa Catarina,Maison,222077.83
+Santa Catarina,Mode,18207.1
+Santa Catarina,Multimédias,21089.59
+Santa Catarina,Papeterie,13527.78
+Santa Catarina,Professionnel,3934.37
+Santa Catarina,Sport & Loisirs,62731.37
+Santa Catarina,Téléphonie,20193.88
+Sergipe,Alimentation & Boissons,172.84
+Sergipe,Animaux,269.94
+Sergipe,Auto & Moto,3416.98
+Sergipe,Autres,856.07
+Sergipe,Beauté & Santé,11599.17
+Sergipe,Bricolage & Jardin,11171.39
+Sergipe,Bébés,1880.43
+Sergipe,Cadeaux & Montres,3491.07
+Sergipe,Gadgets,6327.360000000001
+Sergipe,Informatique & Électronique,13437.01
+Sergipe,Jouets,1461.93
+Sergipe,Maison,16546.9
+Sergipe,Mode,1023.62
+Sergipe,Multimédias,4124.5
+Sergipe,Papeterie,300.33
+Sergipe,Professionnel,469.6
+Sergipe,Sport & Loisirs,5456.98
+Sergipe,Téléphonie,3257.95
+São Paulo,Alimentation & Boissons,53566.62
+São Paulo,Animaux,128545.25
+São Paulo,Auto & Moto,268131.26
+São Paulo,Autres,108336.68
+São Paulo,Beauté & Santé,808318.14
+São Paulo,Bricolage & Jardin,506644.68
+São Paulo,Bébés,193827.33
+São Paulo,Cadeaux & Montres,499362.93
+São Paulo,Fêtes & Événements,1879.4499999999998
+São Paulo,Gadgets,244421.6
+São Paulo,Informatique & Électronique,810406.32
+São Paulo,Jouets,230451.65
+São Paulo,Maison,2341213.64
+São Paulo,Mode,182498.58
+São Paulo,Multimédias,203054.9
+São Paulo,Papeterie,115286.29
+São Paulo,Professionnel,53588.74
+São Paulo,Sport & Loisirs,513830.08
+São Paulo,Téléphonie,176024.98
+Tocantins,Animaux,435.78999999999996
+Tocantins,Auto & Moto,2948.61
+Tocantins,Autres,856.13
+Tocantins,Beauté & Santé,10232.82
+Tocantins,Bricolage & Jardin,4183.16
+Tocantins,Bébés,2428.02
+Tocantins,Cadeaux & Montres,7274.27
+Tocantins,Gadgets,3981.2
+Tocantins,Informatique & Électronique,7147.12
+Tocantins,Jouets,2469.97
+Tocantins,Maison,15391.74
+Tocantins,Mode,1293.43
+Tocantins,Multimédias,994.39
+Tocantins,Papeterie,350.6
+Tocantins,Professionnel,128.63
+Tocantins,Sport & Loisirs,6788.71
+Tocantins,Téléphonie,3460.09
